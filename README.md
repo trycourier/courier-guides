@@ -1,2 +1,5 @@
 # courier-guides
-How-to guides for courier features
+Companion code for Courier how-to guides in docs
+
+## Preferences Center
+>  Courier Preferences Center embedded in a Typescript React app.
